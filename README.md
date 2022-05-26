@@ -2,7 +2,7 @@
 QtCreator Visual Studio Dark X Theme
 
 # Support
-If you like this theme, you can use it for free appreciate your support to have more themes :)
+If you like this theme, you can use it for free appreciate )
 
 * * *
 # Screenshots
