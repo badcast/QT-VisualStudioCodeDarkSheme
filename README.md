@@ -18,4 +18,6 @@ If you like this theme, you can use it for free appreciate your support to have 
 `cp VisualStudioDarkX.xml ~/.config/QtProject/qtcreator/styles/`
 
 ## Linux
+`sh ./install.sh 
+ <h5>alternative</h5>
 `cp VisualStudioDarkX.xml ~/.config/QtProject/qtcreator/styles/`
