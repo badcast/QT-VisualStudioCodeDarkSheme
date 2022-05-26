@@ -7,7 +7,7 @@ If you like this theme, you can use it for free appreciate your support to have 
 * * *
 # Screenshots
 
-![C++](https://raw.githubusercontent.com/badcast/qVisualStudioDarkX/Public/master/preview.png)
+![C++](https://raw.githubusercontent.com/badcast/qVisualStudioDarkX/master/preview.png)
 
 # Install
 
