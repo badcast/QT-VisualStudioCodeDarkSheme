@@ -22,7 +22,7 @@
   <style name="Namespace"/>
   <style name="Local"/>
   <style name="Parameter" foreground="#ffffff" background="#1e1e1e"/>
-  <style name="Global" foreground="#ce5c00"/>
+  <style name="Global"/>
   <style name="Field"/>
   <style name="Static" foreground="#b8d7a3" italic="true"/>
   <style name="VirtualMethod" italic="true"/>
