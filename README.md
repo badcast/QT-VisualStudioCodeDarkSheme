@@ -1,6 +1,9 @@
 # qVisualStudioDarkX
 QtCreator Visual Studio Dark X Theme
 
+<!--draw-->
+ <img src="https://img.shields.io/github/repo-size/badcast/qVisualStudioDarkX?label=size">
+
 # Support
 If you like this theme, you can use it for free appreciate )
 
