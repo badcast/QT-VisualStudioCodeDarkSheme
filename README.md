@@ -1,4 +1,4 @@
-# qVisualStudioDarkX
+# Qt - Visual Studio Dark multi-platform X
 QtCreator Visual Studio Dark X Theme
 
 <!--draw-->
